@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "message": "복제 페이지"
+    },
+    "app_short_name": {
+        "message": "Clone Page"
+    },
+    "app_desc": {
+        "message": "웹을 탐색 할 때 쉽게 페이지를 복제하십시오."
+    },
+    "popup_desc": {
+        "message": "복제 페이지\n\n새 탭에서 현재 링크 열기!"
+    },
+    "action_clone": {
+        "message": "복제 페이지"
+    }
+}

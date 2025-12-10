@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "message": "克隆頁面"
+    },
+    "app_short_name": {
+        "message": "Clone Page"
+    },
+    "app_desc": {
+        "message": "瀏覽網頁時可輕鬆克隆頁面。"
+    },
+    "popup_desc": {
+        "message": "克隆頁面\n\n在新標籤頁中打開當前鏈接！"
+    },
+    "action_clone": {
+        "message": "克隆頁面"
+    }
+}

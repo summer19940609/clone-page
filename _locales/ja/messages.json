@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "message": "クローンページ"
+    },
+    "app_short_name": {
+        "message": "Clone Page"
+    },
+    "app_desc": {
+        "message": "ウェブ閲覧時に簡単にページを複製する。"
+    },
+    "popup_desc": {
+        "message": "クローンページ\n\n現在のリンクを新しいタブで開きます。"
+    },
+    "action_clone": {
+        "message": "クローンページ"
+    }
+}
