@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "message": "kloonpagina"
+    },
+    "app_short_name": {
+        "message": "Clone Page"
+    },
+    "app_desc": {
+        "message": "Eenvoudig pagina's klonen wanneer u op internet surft."
+    },
+    "popup_desc": {
+        "message": "kloonpagina\n\nOpen de huidige link in een nieuw tabblad!"
+    },
+    "action_clone": {
+        "message": "kloonpagina"
+    }
+}

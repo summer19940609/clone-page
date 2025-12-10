@@ -1,0 +1,17 @@
+{
+    "app_name": {
+        "message": "Clone Page"
+    },
+    "app_short_name": {
+        "message": "Clone Page"
+    },
+    "app_desc": {
+        "message": "Easily clone pages when browsing the web."
+    },
+    "popup_desc": {
+        "message": "Clone Page\n\nOpen the current link in a new tab!"
+    },
+    "action_clone": {
+        "message": "Clone Page"
+    }
+}
